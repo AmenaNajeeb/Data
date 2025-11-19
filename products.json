@@ -1,0 +1,6 @@
+[
+  {"Product": "Laptop", "Price": 80000, "Stock": 15},
+  {"Product": "Mobile", "Price": 50000, "Stock": 30},
+  {"Product": "Tablet", "Price": 35000, "Stock": 20},
+  {"Product": "Headphones", "Price": 2000, "Stock": 100}
+]
